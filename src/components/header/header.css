@@ -1,0 +1,22 @@
+.header-bg {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  text-align: center;
+  padding: 20px;
+}
+
+.cover-text {
+  font-size: 40px;
+  margin: 0;
+  padding: 20px 0;
+}
+
+.subtext {
+  font-size: 20px;
+  padding: 0 20px;
+}
