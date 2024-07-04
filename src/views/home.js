@@ -1,7 +1,7 @@
 import React from 'react';
 import Navbar from '../components/navbar/navbar';
 import Header from '../components/header/header';
-import Footer from ''
+import Footer from './../components/Footer/Footer'
 import { HeadContent } from '../data';
 
 function Home() {
