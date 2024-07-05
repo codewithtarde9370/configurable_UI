@@ -1,6 +1,6 @@
 import Profile from './components/navbar/profile-user.png';
 import Lightmode from './components/navbar/sunny-day.png';
-import Darkmode from './components/navbar/moon.png';
+// import Darkmode from './components/navbar/moon.png';
 import Bg from './components/header/BgCover.jpg';
 
 import Pay1 from './components/Footer/pay1.png';

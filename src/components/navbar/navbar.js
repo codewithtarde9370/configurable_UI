@@ -7,7 +7,7 @@ function Navbar() {
   const {title, menuLink, subMenu } = NavMenu[0];
 
   return (
-    <div className="nav" style={{backgroundColor:CssTheme.background}}>
+    <div className="nav" style={{backgroundColor:CssTheme.bg1}}>
       <p className='nav-title' style={{color:CssTheme.title}}>{title}</p>
       <div className="nav-links" style={{color:CssTheme.title}}>
         <Link className="nav-menu" to="/">{menuLink.one}</Link>
